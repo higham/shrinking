@@ -10,13 +10,13 @@ Higham, Strabić, Šego, "[Restoring Definiteness via Shrinking, with an
 Application to Correlation Matrices with a Fixed
 Block](http://eprints.ma.man.ac.uk/2191/)"
 
-The module requires `scipy.linalg` and it incorporates the following methods:
+The main functions are
 
 * `shrink_bisection`: a bisection algorithm,
 
 * `shrink_bisection_fb`: a bisection algorithm optimized for a block
   2-by-2 matrix with a positive definite (1,1) block A and a 
-  block-diagonal target matrix with diagonal blocks A dna the identity.
+  block-diagonal target matrix with diagonal blocks A and the identity.
 
 * `shrink_newton`: a Newton algorithm.
 
@@ -33,10 +33,6 @@ Other M-files:
 * `test_shrink_timings`: runs timing tests on the shrinking codes as well
   as the NAG code `g02aa/nag_nearest_correlation` for computing the nearest
   correlation matrix.
-
-It is possible to incorporate weights into the target matrix that reflect
-the confidence with which individual matrix entries are known. See the
-paper above for details on how to do this.
 
 
 Requirements
