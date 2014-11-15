@@ -2,7 +2,7 @@
 ===
 
 About
-=====
+-----
 
 `shrinking` is a collection of MATLAB functions for repairing invalid
 (indefinite) covariance and correlation matrices, based on the paper
@@ -36,7 +36,7 @@ Other M-files:
 
 
 Requirements
-=============
+-------------
 
 The functions `shrink_newton`, `shrink_gep` and `shrink_gep_fb` require
 the NAG Toolbox for MATLAB.
@@ -44,7 +44,7 @@ the NAG Toolbox for MATLAB.
 The codes have been developed under MATLAB 2014a and 2014b.
 
 License
-=======
+-------
 
 See `license.txt` for licensing information.
 
