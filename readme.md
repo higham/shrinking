@@ -1,5 +1,5 @@
 `shrinking` - MATLAB Codes for Restoring Definiteness via Shrinking
-===
+==========
 
 About
 -----
@@ -33,6 +33,8 @@ Other M-files:
 * `test_shrink_timings`: runs timing tests on the shrinking codes as well
   as the NAG code `g02aa/nag_nearest_correlation` for computing the nearest
   correlation matrix.
+
+* `test_matrix.m`: used by the previous two M-files to generate a test matrix.
 
 
 Requirements
