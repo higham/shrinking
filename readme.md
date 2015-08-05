@@ -54,3 +54,7 @@ License
 
 See `license.txt` for licensing information.
 
+DOI
+---
+
+<a href="http://dx.doi.org/10.5281/zenodo.23027"><img src="https://zenodo.org/badge/doi/10.5281/zenodo.23027.svg" alt="10.5281/zenodo.23027"></a>
