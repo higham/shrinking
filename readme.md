@@ -12,6 +12,7 @@ Application to Correlation Matrices with a Fixed
 Block](http://eprints.ma.man.ac.uk/2191/)", MIMS EPrint
 2014.54, Manchester Institute for Mathematical
   Sciences, The University of Manchester, UK, November 2014.
+  To appear in SIAM Review.
 
 The main functions are
 
