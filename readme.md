@@ -9,10 +9,7 @@ About
 
 N. J. Higham, N. Strabić, and V. Šego, "[Restoring Definiteness via Shrinking, with an
 Application to Correlation Matrices with a Fixed
-Block](http://eprints.ma.man.ac.uk/2191/)", MIMS EPrint
-2014.54, Manchester Institute for Mathematical
-  Sciences, The University of Manchester, UK, November 2014.
-  To appear in SIAM Review.
+Block](https://doi.org//10.1137/140996112)", SIAM Review, 58(2):245--263, 2016.
 
 The main functions are
 
